@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- [용만 쌤 블로그](https://jcd.kr/ymkim)
 <!--
 **ymkim-jamcoding/ymkim-jamcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
